@@ -1,5 +1,5 @@
 tensorflow_gpu==1.4.0
 numpy==1.16.4
-nltk==3.4.3
+nltk==3.4.5
 scikit_learn==0.22.2.post1
 
